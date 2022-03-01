@@ -1,0 +1,22 @@
+id: PCF7625F5
+initial_creation_type: input
+source_metadata:
+  title: Vajraṇakhī Series
+  language: bo
+  description: 'A series of texts related to the wrathful ḍākinī Vajraṇakhī (rdo
+    rje sder mo) or ‘Vajra Claws’:'
+  volume:
+    0aa1d118e23341aaafa97624612ad616:
+      title: Introduction to Vajraṇakhī
+      parent: Introduction
+    1e397f26773b4a4eada3e03944019e96:
+      title: The Dhāraṇī of Glorious Vajraṇakhī
+      parent: Dhāraṇī
+    8563215022954048bde92c60ab6b3e1f:
+      title: Brief Dhāraṇī of Glorious Vajraṇakhī
+      parent: Dhāraṇī
+    ef16c0974cad490e913d56db2c2f375c:
+      title: A Daily Practice of Vajraṇakhī
+      parent: Sādhanas
+created_at: '2022-03-01T06:30:51.811791'
+last_modified_at: '2022-03-01T06:30:51.811794'
